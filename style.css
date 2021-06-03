@@ -71,6 +71,20 @@ footer {
     padding: 15px;
 }
 
+@media only screen and (min-width: 768px){
+    main {
+        display: flex;
+    }
+
+    aside {
+        margin-left: 2%;
+    }
+
+    .columns-desktop {
+        display: flex;
+    }
+}
+
 /* Pies */
 
 .pie{
@@ -101,18 +115,10 @@ footer {
     width: 50%;
 }
 
-
-
-@media only screen and (min-width: 768px){
-    main {
-        display: flex;
-    }
-
-    aside {
-        margin-left: 2%;
-    }
-
-    .columns-desktop {
-        display: flex;
-    }
+.pie button {
+    background: #f6aeae;
+    border: solid 1px #f6aeae;
+    color: white;
+    padding: 10px;
+    border-radius: 3px;
 }
