@@ -71,6 +71,16 @@ footer {
     padding: 15px;
 }
 
+/* Pies */
+
+.pie{
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    background: #fff;
+    border: solid 1px #ccc;
+}
+
 @media only screen and (min-width: 768px){
     main {
         display: flex;
