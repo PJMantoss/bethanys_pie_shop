@@ -51,6 +51,10 @@ main {
     min-height: 85%;
 }
 
+aside, article {
+    padding: 2em;
+}
+
 footer {
     padding: 15px;
 }
