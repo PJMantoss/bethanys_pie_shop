@@ -55,6 +55,14 @@ aside, article {
     padding: 2em;
 }
 
+aside {
+    text-align: center;
+}
+
+article {
+    width: 75%;
+}
+
 footer {
     padding: 15px;
 }
