@@ -66,3 +66,13 @@ article {
 footer {
     padding: 15px;
 }
+
+@media only screen and (min-width: 768px){
+    main {
+        display: flex;
+    }
+
+    aside {
+        margin-left: 2%;
+    }
+}
