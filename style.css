@@ -80,6 +80,7 @@ footer > ul {
 footer > ul > li {
     display: inline-block;
     list-style: none;
+    text-decoration: none;
     margin: 0 5px 0 5px;
 }
 
