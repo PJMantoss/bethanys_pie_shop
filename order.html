@@ -183,6 +183,11 @@
         const order = JSON.parse(localStorage.getItem("order"));
         let locationBox = document.querySelector("#location");
 
+        let location = {
+            latitude: "unknown",
+            longtitude: "unknown"
+        }
+
         if(order){
             const orderInput = document.querySelector("#pie-order");
             orderInput.value = order;
