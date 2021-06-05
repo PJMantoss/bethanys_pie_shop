@@ -186,7 +186,9 @@
         let location = {
             latitude: "unknown",
             longtitude: "unknown"
-        }
+        };
+
+        window.navigator.geolocation.getCurrentPosition();
 
         if(order){
             const orderInput = document.querySelector("#pie-order");
