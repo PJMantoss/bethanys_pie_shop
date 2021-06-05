@@ -69,7 +69,7 @@
                 <p class="desc"></p>
             </div>
 
-            <form action="http://127.0.0.1:5500/api/post" method="post">
+            <form action="http://127.0.0.1:8887/api/post" method="post">
                 <input type="hidden" name="pie-order" id="pie-order">
 
                 <div class="input-group">
@@ -183,6 +183,7 @@
 
         if(order){
             const orderInput = document.querySelector("#pie-order");
+            orderInput.value = order;
 
             const pie = document.querySelector('.pie');
 
