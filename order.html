@@ -182,6 +182,8 @@
         const order = JSON.parse(localStorage.getItem("order"));
 
         if(order){
+            const orderInput = document.querySelector("#pie-order");
+
             const pie = document.querySelector('.pie');
 
             const title = pie.querySelector('.title');
