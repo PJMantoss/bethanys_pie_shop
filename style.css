@@ -69,6 +69,18 @@ article {
 
 footer {
     padding: 15px;
+    text-align: center;
+}
+
+footer > ul {
+    display: inline;
+    padding: 0;
+}
+
+footer > ul > li {
+    display: inline-block;
+    list-style: none;
+    margin: 0 5px 0 5px;
 }
 
 @media only screen and (min-width: 768px){
