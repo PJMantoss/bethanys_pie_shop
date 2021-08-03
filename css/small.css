@@ -15,6 +15,17 @@ body {
     font-weight: 300;
 }
 
+/* Grid rules */
+.row {
+    clear: both;
+}
+
+.column {
+    float: left;
+}
+
+
+/* Footer styling */
 footer {
     background: #9b87b8;
     font-size: 1.2rem;
