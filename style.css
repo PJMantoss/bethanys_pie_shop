@@ -26,6 +26,21 @@ header {
     padding: 10px;
 }
 
+h1 {
+    font-size: 3em;
+    margin-top: 0.5em;
+}
+
+.banner {
+    max-width: 100%;
+}
+
+.subTitle {
+    font-size: 1.5em;
+    padding: 10px;
+    background: white;
+}
+
 nav a:visited,
 nav a:link {
     color: white;
