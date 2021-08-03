@@ -43,6 +43,36 @@ header h2{
     font-size: 1.05rem;
 }
 
+/* CSS rules for Hamburger */
+button#hamburgerBtn { 
+    background: none;
+    border:none;
+    color: #fff;
+    font-size: 2.4rem;
+    cursor: pointer;
+    padding: 0 30px 0 2vw;
+}
+
+/* CSS rules for Navigation */
+
+nav {
+    background: #23cfa7;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    list-style-type: none;
+}
+
+nav a {
+    display: block;
+    padding: .8rem 0;
+}
+
 /* Grid stylig rules */
 .row {
     clear: both;
