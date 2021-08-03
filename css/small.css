@@ -26,6 +26,13 @@ header img {
     padding-right: 10px;
 }
 
+header h1, header h2 {
+    margin: 0;
+    font-weight: 300;
+    color: #fff;
+    font-style: italic;
+}
+
 /* Grid stylig rules */
 .row {
     clear: both;
