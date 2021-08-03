@@ -24,6 +24,10 @@ body {
     float: left;
 }
 
+.small-12 {
+    width: 100%;
+}
+
 
 /* Footer styling */
 footer {
