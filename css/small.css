@@ -36,3 +36,9 @@ footer h2 {
     text-transform: uppercase;
     margin: 1rem 0 .3rem 0;
 }
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
