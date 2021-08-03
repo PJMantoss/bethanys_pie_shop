@@ -11,5 +11,17 @@ html {
 
 body {
     font-family: 'Lato', sans-serif;
+    font-size: 16px;
     font-weight: 300;
+}
+
+footer {
+    background: #9b87b8;
+    font-size: 1.2rem;
+}
+
+footer h2 {
+    font-style: italic;
+    text-transform: uppercase;
+    margin: 1rem 0 .3rem 0;
 }
