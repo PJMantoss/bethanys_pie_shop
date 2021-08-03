@@ -20,6 +20,10 @@ body {
     clear: both;
 }
 
+.limited {
+    max-width: 1140px;
+}
+
 .column {
     float: left;
     padding: 0 2vw;
