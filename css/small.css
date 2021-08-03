@@ -15,7 +15,18 @@ body {
     font-weight: 300;
 }
 
-/* Grid rules */
+/* Header stylig rules */
+header {
+    background: #9b87b8;
+}
+
+header img {
+    float: left;
+    height: 85px;
+    padding-right: 10px;
+}
+
+/* Grid stylig rules */
 .row {
     clear: both;
 }
@@ -36,7 +47,7 @@ body {
 }
 
 
-/* Footer styling */
+/* Footer stylig rules */
 footer {
     background: #9b87b8;
     font-size: 1.2rem;
