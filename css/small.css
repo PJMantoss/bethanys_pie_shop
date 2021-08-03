@@ -71,6 +71,9 @@ nav ul li {
 nav a {
     display: block;
     padding: .8rem 0;
+    text-decoration: none;
+    text-align: center;
+    color: #eee;
 }
 
 /* Grid stylig rules */
