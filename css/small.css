@@ -76,6 +76,14 @@ nav a {
     color: #eee;
 }
 
+nav li.active {
+    background: rgba(0,0,0,0.5);
+}
+
+nav li:hover {
+    background: rgba(0,0,0,0.2);
+}
+
 /* Grid stylig rules */
 .row {
     clear: both;
@@ -113,8 +121,4 @@ footer h2 {
     content: "";
     display: table;
     clear: both;
-}
-
-nav li.active {
-    background: rgba(0,0,0,0.5);
 }
