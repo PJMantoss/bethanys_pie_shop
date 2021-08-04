@@ -84,6 +84,14 @@ nav li:hover {
     background: rgba(0,0,0,0.2);
 }
 
+nav ul.open {
+    display: block;
+}
+
+nav ul {
+    display: none;
+}
+
 /* Grid stylig rules */
 .row {
     clear: both;
