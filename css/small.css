@@ -130,7 +130,7 @@ main h1 {
 
 .labeled h6, .labeled p {
     position: absolute;
-    background-color: red;
+    background-color: rgba(255,255,255,0.7);
     margin: 0;
     width: 100%;
     padding: .3rem 1rem;   
