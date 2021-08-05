@@ -112,7 +112,10 @@ nav ul {
     clear: both;
 }
 
-main img {}
+main img {
+    width: 100%;
+    height: auto;
+}
 
 
 /* Footer stylig rules */
