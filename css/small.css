@@ -15,6 +15,11 @@ body {
     font-weight: 300;
 }
 
+/* Grids */
+.row {
+    clear: both;
+}
+
 .limited {
     max-width: 1140px;
     margin: auto;
@@ -105,11 +110,6 @@ nav ul.open {
 
 nav ul {
     display: none;
-}
-
-/* Grid stylig rules */
-.row {
-    clear: both;
 }
 
 main img {
