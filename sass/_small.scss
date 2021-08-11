@@ -17,6 +17,7 @@ body {
 
 /* Grids */
 .row {
+    // clear: both;
     display: flex;
     flex-wrap: wrap;
 }
@@ -179,8 +180,8 @@ footer {
     }
 }
 
-.clearfix:after {
-    content: "";
-    display: table;
-    clear: both;
-}
+// .clearfix:after {
+//     content: "";
+//     display: table;
+//     clear: both;
+// }
