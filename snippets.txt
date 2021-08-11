@@ -1,4 +1,4 @@
-/*----- COLUMNS -----*/
+/*----- COLUMNS -----*/ Twelve Column Grid using a CSS Preprocessor
 display: flex;
 flex-wrap: wrap;
 
