@@ -438,11 +438,10 @@ main p {
 footer {
   background: #9b87b8;
   font-size: 1.2rem; }
-
-footer h2 {
-  font-style: italic;
-  text-transform: uppercase;
-  margin: 1rem 0 .3rem 0; }
+  footer h2 {
+    font-style: italic;
+    text-transform: uppercase;
+    margin: 1rem 0 .3rem 0; }
 
 .clearfix:after {
   content: "";
