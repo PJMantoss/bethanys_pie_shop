@@ -157,15 +157,18 @@ main {
         padding: .3rem 1rem;
     }   
 }
-.labeled h6 {
-    top: 0;
-    font-size: 2rem;
-    font-weight: 300;
-}
-.labeled p {
-    bottom: 0;
-    font-weight: 700;
-    color: #b00;
+
+.labeled {
+    h6 {
+        top: 0;
+        font-size: 2rem;
+        font-weight: 300;
+    }
+    p {
+        bottom: 0;
+        font-weight: 700;
+        color: #b00;
+    }
 }
 
 /* Footer stylig rules */
