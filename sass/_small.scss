@@ -41,7 +41,7 @@ body {
 
 /* Header stylig rules */
 header {
-    background: #9b87b8;
+    background: $primaryColor;
 }
 
 header img {
@@ -80,7 +80,7 @@ button#hamburgerBtn {
 /* CSS rules for Navigation */
 
 nav {
-    background: #23cfa7;
+    background: $secondaryColor;
 }
 
 nav ul {
