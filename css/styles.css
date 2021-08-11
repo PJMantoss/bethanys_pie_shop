@@ -319,7 +319,8 @@ body {
 
 /* Grids */
 .row {
-  display: flex; }
+  display: flex;
+  flex-wrap: wrap; }
 
 .limited {
   max-width: 1140px;

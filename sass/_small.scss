@@ -18,6 +18,7 @@ body {
 /* Grids */
 .row {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .limited {
