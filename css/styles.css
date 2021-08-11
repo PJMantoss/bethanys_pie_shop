@@ -333,9 +333,6 @@ body {
 .small-12 {
   flex-basis: 100%; }
 
-.small-6 {
-  width: 50%; }
-
 /* Header stylig rules */
 header {
   background: #9b87b8; }
@@ -459,7 +456,7 @@ footer {
     height: 100px; }
 
   .medium-6 {
-    width: 50%; }
+    flex-basis: 50%; }
 
   .medium-4 {
     width: 33.33333%; }
