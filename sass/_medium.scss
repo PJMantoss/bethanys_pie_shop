@@ -24,10 +24,12 @@
     }
 
     nav ul {
-        display: block;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
     
     nav li {
-        width: 16%;
+        flex-basis: 16%;
         float: left;
     }
