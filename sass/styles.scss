@@ -8,4 +8,6 @@
     @import "medium";
 }
 
-@import "large";
+@media only screen and (min-width: 1024px){
+    @import "large";
+}
